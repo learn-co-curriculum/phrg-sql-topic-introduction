@@ -24,4 +24,8 @@ This topic will cover how to use and navigate databases based on SQL. By the end
 * Write SQL code in both your command line and your text editor and execute the code against a database. 
 * Write Ruby programs that talk to and save data to your databases.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-topic-introduction/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-topic-introduction/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Introduction To Structured Query Language</p>
